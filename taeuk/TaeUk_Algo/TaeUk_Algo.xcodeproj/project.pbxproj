@@ -37,6 +37,8 @@
 		A99DB89A260F25E500E8CCD1 /* Star2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Star2.swift; sourceTree = "<group>"; };
 		A99DB89B260F25ED00E8CCD1 /* Star3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Star3.swift; sourceTree = "<group>"; };
 		A99DB89C260F25F400E8CCD1 /* Star4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Star4.swift; sourceTree = "<group>"; };
+		A9F7A9AD26198B1F0093B929 /* LinkedList.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = LinkedList.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		A9F7A9AF26199C150093B929 /* Closure.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Closure.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 		A97A2BDE260E052800BC9BF0 /* TaeUk_Algo */ = {
 			isa = PBXGroup;
 			children = (
+				A9F7A9AB26198A4E0093B929 /* Basic */,
 				A99DB86F260F08B700E8CCD1 /* 01 */,
 				A97A2BDF260E052800BC9BF0 /* main.swift */,
 			);
@@ -92,6 +95,15 @@
 				A99DB89C260F25F400E8CCD1 /* Star4.swift */,
 			);
 			path = 01;
+			sourceTree = "<group>";
+		};
+		A9F7A9AB26198A4E0093B929 /* Basic */ = {
+			isa = PBXGroup;
+			children = (
+				A9F7A9AD26198B1F0093B929 /* LinkedList.playground */,
+				A9F7A9AF26199C150093B929 /* Closure.playground */,
+			);
+			path = Basic;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
