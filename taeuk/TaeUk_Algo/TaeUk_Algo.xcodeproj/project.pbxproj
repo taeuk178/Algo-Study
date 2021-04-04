@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		A95248472619A36D000F2473 /* HightOrderFunction.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = HightOrderFunction.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		A97A2BDC260E052800BC9BF0 /* TaeUk_Algo */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TaeUk_Algo; sourceTree = BUILT_PRODUCTS_DIR; };
 		A97A2BDF260E052800BC9BF0 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A99DB871260F09F700E8CCD1 /* A+B.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "A+B.swift"; sourceTree = "<group>"; };
@@ -102,6 +103,7 @@
 			children = (
 				A9F7A9AD26198B1F0093B929 /* LinkedList.playground */,
 				A9F7A9AF26199C150093B929 /* Closure.playground */,
+				A95248472619A36D000F2473 /* HightOrderFunction.playground */,
 			);
 			path = Basic;
 			sourceTree = "<group>";

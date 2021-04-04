@@ -29,4 +29,5 @@ let stringArrRemoveReturn = intArr.map({ (s1) in "\(s1)" })
 // 파라미터에 이름 붙일 필요가 없으므로 In 키워드 생략 가능
 let stringArrRemoveIn = intArr.map({ "\($0)" })
 
-print(stringArr)
+print(intArr)
+print(stringArrRemoveIn)
